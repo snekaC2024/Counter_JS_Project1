@@ -1,4 +1,5 @@
-# 100 Days 100 JavaScript Projects 💯
+# 100 Days 100 JavaScript Projects 💯 
+Day 1 - Simple Counter
 
 Hi! I'm Sneka and this is my journey of building  
 **100 simple JavaScript projects in 100 days**.
