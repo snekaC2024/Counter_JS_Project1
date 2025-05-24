@@ -1,5 +1,7 @@
 # 100 Days 100 JavaScript Projects 💯 
-Day 1 - Simple Counter
+## Day 1 - Simple Counter
+## 📸 Preview
+![Tip Calculator](screenshot.png)
 
 Hi! I'm Sneka and this is my journey of building  
 **100 simple JavaScript projects in 100 days**.
